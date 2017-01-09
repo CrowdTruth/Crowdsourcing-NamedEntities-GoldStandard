@@ -1,5 +1,5 @@
 # Harnessing diversity in crowds and machines for better NER performance
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/78200719.svg)](https://zenodo.org/badge/latestdoi/78200719)
 
 This repository contains the experimental results of identifying and typing named entities in English Wikipedia sentences. Even though current named entity recognition tools achieve nearly human-like performance or particular data types or domains, they are still highly dependent on the gold standard used for training and testing. The mainstream approach of gathering ground truth or gold standard for training and evaluating named entity recognition tools is still by means of experts, who are typically expensive and hard to find. Furthermore, for each new input type, or each new domain, new gold standards need to be created. Overall, the experts follow over-generalized annotation guidelines, meant to increase the <b>inter-annotator agreement</b> between experts. Such guidelines are thus prone to denying the intrinsic language ambiguity, multitude of perspectives and interpretations. Thus, ground truth datasets might not always be 'gold' or 'true' in terms of capturing the real text meaning and interpretation diversity. In the last decade crowdsourcing has also proven to be a suitable method for gathering such ground truth, but data ambiguity is still not handled.
 
